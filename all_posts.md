@@ -1,7 +1,6 @@
 ---
 layout: allposts
 title: All posts
-shorthand: ap
 landing-title: 'All posts'
 nav-menu: true
 description: null

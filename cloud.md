@@ -33,7 +33,6 @@ tile_id: cloudtech
 
 
 
-<div id="main">
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -102,4 +101,3 @@ tile_id: cloudtech
 		</header>
 		<p>To give some context to how disruptive this has been, aasdfasdf Put asome numbers referring to successful start ups here asdfasdfa. Now, it is viable to create a software startup with orders of magnitude lower capital, specifically due to the now financially available tiers of computing power and the streamlined offerings of these comuting instances.</p> 
 	</section>
-</div>

@@ -4,7 +4,7 @@ subtitle: And his personal internet oasis
 email: lhubbard@pdx.edu
 
 description: Personal internet oasis
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author:
 street_address: 
@@ -19,7 +19,7 @@ tiles-source: pages # accepts "posts" or "pages"
 
 tiles-count: 6
 
-tile_display_order: "blog;ap;cloudtech;ml"
+tile_display_order: "blog;cloudtech;ml;"
 
 # social settings
 500px_url:

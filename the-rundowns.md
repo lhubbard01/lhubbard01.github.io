@@ -1,5 +1,5 @@
 ---
-title: Industry Technologies
+title: The Rundown
 shorthand: cloudtech
 layout: post
 description: reference material and context
