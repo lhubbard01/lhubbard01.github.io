@@ -1,12 +1,13 @@
 ---
 layout: allposts
 title: All posts
+shorthand: ap
 landing-title: 'All posts'
 nav-menu: true
 description: null
 image: null
 author: null
-show_tile: false
+show_tile_home: true
 ---
 
 <h1>All posts</h1>
