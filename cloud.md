@@ -64,8 +64,36 @@ tile_id: cloudtech
 		<header class="major">
 			<h3>Better Than Back in my Day</h3>
 		</header>
-		<p>Now, there are many leaders in the field of not only provisioning remote compute resources, but also the software infrastructure other architectural comonents to enhance enterprise software operationality. <a href="{{ site.baseurl }}{% link AWS.md %}">Amazon Web Services</a> is the most prominent player, whose offerings have expanded far beyond their intital offerings of <a href="https://aws.amazon.com">elastic</a> computing and <a href="">large data storage</a>, as it now includes many database formats (<a href="">DocumentDB</a>(document data store), <a href="">Redshift</a> (data warehouse, i.e. a large repository of unstructured data), <a href="">architectural components</a> (<a href="">SMS</a> and <a href="">SQS</a>, pub and sub respectively), and business analytics (<a href="">Athena</a>, <a href="">SageMaker</a>), alongside many, many more offerings. </p>
-		<p>Also prominent are Google Cloud Services and Microsoft Azure, both of which have many similar offerings, but considerably less developed than AWS who was one of the first players in the game of cloud.</p>
+		<p>Now, there are many leaders in the field of not only provisioning remote compute resources, but also the software infrastructure other architectural comonents to enhance enterprise software operationality. 
+			<a href="{{ site.baseurl }}{% link AWS.md %}">Amazon Web Services</a> is the most prominent player, whose offerings have expanded far beyond their intital offerings of <a href="https://aws.amazon.com">elastic</a> computing and <a href="https://aws.amazon.com/s3">large data storage(Simple Storage Service)</a>, as it now includes:</p>
+		<br/>
+		<a href="{{ site.baseurl }}{% link data-stores.md %}">Many database formats </a>
+		<ul>
+			<li><a href="https://aws.amazon.com/documentdb/">DocumentDB</a> document data store</li>
+			<li><a href="https://aws.amazon.com/redshift">Redshift</a> (data warehouse, i.e. a large repository of unstructured data)</li>
+			<li> <a href="https://aws.amazon.com/dynamodb">DynamoDB</a> (A document style datastore with NoSQL oriented behavior) )</li>
+			</ul>
+		<br/>
+		<a href="https://aws.amazon.com/architecture">architectural components</a>
+		<ul>
+			<li> <a href="">SMS</a> and <a href="">SQS</a>, pub and sub respectively
+			</li>
+			<li><a href=""> Deployment pipelines </a>
+			</li>
+			</ul>
+			<br/>
+		  <a href="https://aws.amazon.com/business-applications">Tools for Business Applications and analytics</a>
+		  <ul>
+		  <li><a href="">Athena</a></li>
+		  <li> <a href="">SageMaker</a></li>
+		  </ul>
+		  <br/>
+		<p>alongside many, many more offerings. Some of the lessbusiness savvy may be wondering, why do these preconstructed tools exist with such a variety of abstraction and purpose?  It is simple, and it is distinct from common engineering intuition.  These are there simply to assist in business product agility. One thing that must be recognized is  those in business and those in engineering will find different products and services, and perhaps even goals appealing. For my engineering friends and engineering oriented readers, reflecting on the business use cases and applications will pay large dividends in discovering appeal for new services.</p>
+		<p>The world of business has always been intrinsically competitive, and that competition has only been amplified through the pace at which the modern world can communicate. There are so many adversaries to compete against in the modern world of entrepreneurship and business in general, and as such, the ability to rapidly scale with minimal cost for infrastructural development is seen as leverageable advantage maker.</p>
+		<p>Obviously, the further abstracted one is away from the codebase their application or operations run atop, the less ability there is to customize a platform for a specific use case.  However, because there is such a variety of demanded operational behaviors, start ups and large cloud providers have competed to offer tools they expect customers to find usefu.  Again, such an investment in time and talent for these products and services is thresholded by the potential payoff. </p>
+		<p>If you are interested in exploring the modern idea and importance of data in the world of commerce and ecommerce, I will have a post <a href="{{ site.baseurl }}{% link data-and-business.md %} ">here</a> eventually.
+		</p>
+		<p>Also prominent players in cloud provisioning are Google Cloud Services and Microsoft Azure, both of which have many similar offerings, but considerably less developed than AWS who was one of the first players in the game of cloud.</p>
 		<br/>
 	</section>
 	<section>
