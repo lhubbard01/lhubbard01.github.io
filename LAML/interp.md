@@ -45,7 +45,7 @@ description: A Nascent Scientific Endeavor
 			<p>Each step of further inspection into the specific reveals a new world, alien to our anticipation. From our skin, to the cell, to the molecule, to the atomic, to the subatomic, and recursively further, we have explored the end we once knew to be the end, or the bottom, or whatever have you. Within each layer and the layers between, fields of scientific inquiry have produced their own wealth of knowledge that has only grown with finer tools. 
 			So it seems to be the case with neural computation. Indeed, it may reveal the nature of our own perception, and even if it doesn't, it would instead reveal the nature of a similarly powerful vehicle for computation.  </p>
 			<br/>
-			<p>The underappreciated youth of this field hints at a vast uninvestigated trove of discoverables. This is where the unknown unknowns reside, and where perhaps we are humbled by nature once more. A portion of OpenAI's team has thus ventured towards these ends, albeit with a lack of cultural fanfare. For those of you that have read this far, entertaining my vague waxing to the poetic, <a href="https://distill.pub/2020/circuits/zoom-in/">here is the sauce</a></p>
+			<p>The underappreciated youth of this field hints at a vast uninvestigated trove of discoverables. This is where the unknown unknowns reside, and where perhaps we are humbled by nature once more. A portion of OpenAI's team has thus ventured towards these ends, albeit with a lack of cultural fanfare. For those of you that have read this far, entertaining my vague waxing to the poetic, <a  target="_blank"  href="https://distill.pub/2020/circuits/zoom-in/">here is the sauce</a></p>
 		</div>
 	</div>
 </section>

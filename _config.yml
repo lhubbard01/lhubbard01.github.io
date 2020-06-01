@@ -1,18 +1,18 @@
 # site settings
 title: Lyle Hubbard
-subtitle: And his personal internet oasis
+subtitle: Internet Technology Consultation
 email: lhubbard@pdx.edu
 
-description: Personal internet oasis
+description: Background Skillset
 baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author:
 street_address: 
-city: 
+city: Portland
 state: Oregon
 zip_code: 
 country: United States of America
-phone: (716) 555-5555
+#phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

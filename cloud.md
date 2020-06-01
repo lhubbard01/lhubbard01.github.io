@@ -64,27 +64,27 @@ tile_id: cloudtech
 			<h3>Better Than Back in my Day</h3>
 		</header>
 		<p>Now, there are many leaders in the field of not only provisioning remote compute resources, but also the software infrastructure other architectural comonents to enhance enterprise software operationality. 
-			<a href="{{ site.baseurl }}{% link AWS.md %}">Amazon Web Services</a> is the most prominent player, whose offerings have expanded far beyond their intital offerings of <a href="https://aws.amazon.com">elastic</a> computing and <a href="https://aws.amazon.com/s3">large data storage(Simple Storage Service)</a>, as it now includes:</p>
+			<a href="{{ site.baseurl }}{% link AWS.md %}">Amazon Web Services</a> is the most prominent player, whose offerings have expanded far beyond their intital offerings of <a target="_blank"  href="https://aws.amazon.com">elastic</a> computing and <a target="_blank" href="https://aws.amazon.com/s3">large data storage(Simple Storage Service)</a>, as it now includes:</p>
 		<br/>
 		<a href="{{ site.baseurl }}{% link data-stores.md %}">Many database formats </a>
 		<ul>
-			<li><a href="https://aws.amazon.com/documentdb/">DocumentDB</a> document data store</li>
-			<li><a href="https://aws.amazon.com/redshift">Redshift</a> (data warehouse, i.e. a large repository of unstructured data)</li>
-			<li> <a href="https://aws.amazon.com/dynamodb">DynamoDB</a> (A document style datastore with NoSQL oriented behavior) )</li>
+			<li><a  target="_blank" href="https://aws.amazon.com/documentdb/">DocumentDB</a> document data store</li>
+			<li><a  target="_blank" href="https://aws.amazon.com/redshift">Redshift</a> (data warehouse, i.e. a large repository of unstructured data)</li>
+			<li> <a  target="_blank" href="https://aws.amazon.com/dynamodb">DynamoDB</a> (A document style datastore with NoSQL oriented behavior) )</li>
 			</ul>
 		<br/>
-		<a href="https://aws.amazon.com/architecture">architectural components</a>
+		<a target="_blank" href="https://aws.amazon.com/architecture">architectural components</a>
 		<ul>
-			<li> <a href="">SMS</a> and <a href="">SQS</a>, pub and sub respectively
+			<li> <a target="_blank" href="https://aws.amazon.com/sns/">SNS</a> and <a  target="_blank" href="https://aws.amazon.com/sqs/">SQS</a>, pub and sub respectively
 			</li>
-			<li><a href=""> Deployment pipelines </a>
+			<li><a  target="_blank"href="https://aws.amazon.com/codedeploy/"> Deployment pipelines </a>
 			</li>
 			</ul>
 			<br/>
-		  <a href="https://aws.amazon.com/business-applications">Tools for Business Applications and analytics</a>
+		  <a  target="_blank" href="https://aws.amazon.com/business-applications">Tools for Business Applications and analytics</a>
 		  <ul>
-		  <li><a href="">Athena</a></li>
-		  <li> <a href="">SageMaker</a></li>
+		  <li><a target="_blank" href="https://aws.amazon.com/athena/">Athena</a></li>
+		  <li> <a  target="_blank"href="https://aws.amazon.com/sagemaker/">SageMaker</a></li>
 		  </ul>
 		  <br/>
 		<p>alongside many, many more offerings. Some of the lessbusiness savvy may be wondering, why do these preconstructed tools exist with such a variety of abstraction and purpose?  It is simple, and it is distinct from common engineering intuition.  These are there simply to assist in business product agility. One thing that must be recognized is  those in business and those in engineering will find different products and services, and perhaps even goals appealing. For my engineering friends and engineering oriented readers, reflecting on the business use cases and applications will pay large dividends in discovering appeal for new services.</p>

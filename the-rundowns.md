@@ -39,8 +39,8 @@ nav-menu: true
 				<p>Cloud centric infrastructural design considerations are often difficult to describe, partially due to the intellectual proprietary nature of the material, and partially due to the disconnect between academic computer science curricula and industry needs.  That's a pretty heady way to say "yeah, they built their business on it and a lotta people dont really know about it because they weren't exposed to it in college, haha". But I digress... </p>
 				<p> I have two favorite resources for bridging the gap</p>
 				<ul>
-					<li><a href="youtube-resources.html"> Youtube channels</a> and media for conferences dedicated to these topics (oftentimes containing hilarious "story times" and useful case studies)</li>
-					<li><a href="https://learning.oreilly.com">O'Reilly</a> and the media on its platform (seriously, this stuff is so great)</li>
+					<li><a  target="_blank"  href="youtube-resources.html"> Youtube channels</a> and media for conferences dedicated to these topics (oftentimes containing hilarious "story times" and useful case studies)</li>
+					<li><a  target="_blank" href="https://learning.oreilly.com">O'Reilly</a> and the media on its platform (seriously, this stuff is so great)</li>
 				</ul>
 				<p>Here are some iuseful descriptions I made, partly for myself because there is no better way to learn something than by explaining it. I encourage you to seek out the mentioned resources earlier, and I will provide links to resources I found useful during my study of these technologies, since I am by no means expert in them. Happy hunting!</p>
 			</div>
