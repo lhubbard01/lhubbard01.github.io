@@ -52,7 +52,7 @@ tile_id: cloudtech
 		<ul>
 			<li> <a target="_blank" rel="noopener noreferrer"  href="https://aws.amazon.com/sns/">SNS</a> and <a   rel="noopener noreferrer" target="_blank" href="https://aws.amazon.com/sqs/">SQS</a>, pub and sub respectively
 			</li>
-			<li><a   rel="noopener noreferrer" target="_blank"href="https://aws.amazon.com/codedeploy/"> Deployment pipelines </a>
+			<li><a   rel="noopener noreferrer" target="_blank" href="https://aws.amazon.com/codedeploy/"> Deployment pipelines </a>
 			</li>
 			</ul>
 			<br/>
