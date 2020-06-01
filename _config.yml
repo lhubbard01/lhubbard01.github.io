@@ -19,7 +19,7 @@ tiles-source: pages # accepts "posts" or "pages"
 
 tiles-count: 6
 
-tile_display_order: "blog;cloudtech;ml;"
+tile_display_order: "ml;blog;cloudtech;ml;"
 
 # social settings
 500px_url:

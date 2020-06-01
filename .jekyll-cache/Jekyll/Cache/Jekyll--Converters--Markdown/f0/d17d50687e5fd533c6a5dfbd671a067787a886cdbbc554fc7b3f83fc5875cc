@@ -1,18 +1,4 @@
----
-title: The Rundown
-shorthand: cloudtech
-layout: post
-description: reference material and context
-image:  assets/images/pic08.jpg 
-nav-menu: true
----
-
-
-
-
-
-
-<!-- Main -->
+I"ù<!-- Main -->
 <div id="main">
 
 
@@ -27,11 +13,11 @@ nav-menu: true
 	</div>
 </section>
 <!-- Two -->
+<section id="two" class="spotlights">
 	<section>
-		<a href="cloud.html" class="image">
-			<img src="{{site.baseurl}}{% link assets/images/world-interconnected-network.png %}" alt="" data-position="center center" />
+		<a href="generic.html" class="image">
+			<img src="/forty-jekyll-theme/assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
-		<p>The world!</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -40,14 +26,28 @@ nav-menu: true
 				<p>Cloud centric infrastructural design considerations are often difficult to describe, partially due to the intellectual proprietary nature of the material, and partially due to the disconnect between academic computer science curricula and industry needs.  That's a pretty heady way to say "yeah, they built their business on it and a lotta people dont really know about it because they weren't exposed to it in college, haha". But I digress... </p>
 				<p> I have two favorite resources for bridging the gap</p>
 				<ul>
-					<li><a  target="_blank"  rel="noopener noreferrer"  href="https://youtube.com"> Youtube channels</a> and media for conferences dedicated to these topics (oftentimes containing hilarious "story times" and useful case studies)</li>
-					<li><a  target="_blank"  rel="noopener noreferrer" href="https://learning.oreilly.com">O'Reilly</a> and the media on its platform (seriously, this stuff is so great)</li>
+					<li> Youtube channels and media for conferences dedicated to these topics (oftentimes containing hilarious "story times" and useful case studies)</li>
+					<li>O'Reilly Safari and the media on its platform (seriously, this stuff is so great)</li>
 				</ul>
 				<p>Here are some iuseful descriptions I made, partly for myself because there is no better way to learn something than by explaining it. I encourage you to seek out the mentioned resources earlier, and I will provide links to resources I found useful during my study of these technologies, since I am by no means expert in them. Happy hunting!</p>
+				<dl>
+					<dt>Cloud</dt>
+					<dd>
+						<a href="Cloud.html" class="button">The brief history of cloud</a>
+					</dd>
+					<dt>Docker</dt>
+					<dd>
+						<a href="Docker.html" class="button">Docker</a>
+					</dd>
+					<dt>Hadoop</dt>
+					<dd>
+						<a href="Hadoop.html" class="button">Hadoop</a>
+					</dd>
+				</dl>
 			</div>
 		</div>
-{% include tileid.html content="cloudtech" %}
 	</section>
+</section>
 </div>
 
-
+:ET

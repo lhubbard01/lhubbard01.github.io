@@ -12,4 +12,3 @@ author: null
 
 
 
-{% include visited_map.html %}
