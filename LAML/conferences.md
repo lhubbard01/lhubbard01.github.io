@@ -30,7 +30,7 @@ tile_id: mll
 <section class="spotlights">
 	<section>
 		<a  target="_blank"  rel="noopener noreferrer" href="https://iclr.cc" class="image">
-			<img src="{{ site.baseurl }}{% link assets/images/iclr.png %}" alt="" data-positions="center center" />
+			<img src="{{ site.baseurl }}{% link assets/images/confml/iclr.png %}" alt="" data-positions="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -50,7 +50,7 @@ tile_id: mll
 	</section>
 	<section>
 		<a target="_blank"  rel="noopener noreferrer"  href="https://nips.cc" class="image">
-			<img src="{{ site.baseurl }}{% link assets/images/neurips.png %}" alt="">
+			<img src="{{ site.baseurl }}{% link assets/images/confml/neurips.png %}" alt="">
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ tile_id: mll
 	</section>
 	<section>
 		<a  target="_blank"  rel="noopener noreferrer" href="https://www.thecvf.com" class="image">
-			<img src="{{ site.baseurl }}{% link assets/images/CVF.png %}" alt="">
+			<img src="{{ site.baseurl }}{% link assets/images/confml/CVF.png %}" alt="">
 		</a>
 		<div class="content">
 			<div class="inner">
