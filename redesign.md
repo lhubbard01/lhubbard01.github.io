@@ -117,5 +117,16 @@ show_tile_home: true
 		</div>
 	</section>
 	<section>
+		<p>One of the most useful additions to the web development toolset I discovered through this redesign was SCSS, or rather, SASS. It streamlines a ton of unnecessary overhead in design, mapping it to useable CSS after compilation. </p>
+		<ul>
+			<li>It is useful from letting variables abstract away complex CSS that would otherwise be unwiedly.</li>
+			<li> It also supports nesting of elements in their definition.</li>
+			<li>Partials, akin to <code>/_include/</code>'s from the Jekyll project template</li>
+			<li>It is also modular! </li>
+			<li>It allows for "functions" of sorts, termed "mixins"</li>
+			<li>Inheritance!</li>
+			<li>It even lets you perform computations to adjust visual parameters, i.e. their operators compute values before being rendered.</li>
+		</ul>
+		<p>The syntax necessary to employ these features are trivial to get up to speed with. This will be included further down the page, or perhaps on a separate page if I end up describing the stuff involved with this site more deeply.</p>
 	</section>
 </div>
