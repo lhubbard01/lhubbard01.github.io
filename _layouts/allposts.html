@@ -12,6 +12,9 @@
 
     {% include header.html %} 
     
+
+
+
     
     <!-- Main -->
     <div id="main" class="alt">
@@ -20,7 +23,7 @@
       <section id="one">
 	<div class="inner">
           {% for post in site.posts %}
-	  {% if post.title != 404 %}
+	  {% if post.title != 404 and post.type == "post" %}
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
 	  </header>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Redesign
+title: Page Frameworks
 description: a page dedicated to all the stuff applied to accomplishing a more involved and hands on personal site
 shorthand: blog
 image: null

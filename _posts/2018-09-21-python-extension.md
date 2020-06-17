@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing C for Python
-css: /css/prt.css
+type: post
 ---
 
 

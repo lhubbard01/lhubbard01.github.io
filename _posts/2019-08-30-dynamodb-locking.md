@@ -2,7 +2,7 @@
 layout: post
 title: DynamoDB Transactions
 subtitle: Now Offering Atomic Guarantees and ACID Compliance
-css: css/prt.css
+type: post
 ---
 
 DynamoDB wasn't designed with ACID compliance in mind. When creating a new tool, you don't want to reinvent the wheel. In fact, that wouldn't be creation at all.  Dynamo was meant to offer low overhead, highly scalable, durable, and eventually consistent storage.  It did what it was designed to do well: offer a data store for the age of agile methodology. Sometimes though, data storage infrastructure will confer outcomes down the line that architects don't design for. Moving all of a team's data, let alone an entire company's, to a new and better designed storage solution is costly both in term of time and opportunity cost.  

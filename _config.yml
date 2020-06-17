@@ -1,9 +1,9 @@
 # site settings
 title: Lyle Hubbard
-subtitle: Internet Technology Consultation
+subtitle: Personal Internet Oasis
 email: lhubbard@pdx.edu
 
-description: Background Skillset
+#description: Background Skillset
 baseurl:  # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 author:

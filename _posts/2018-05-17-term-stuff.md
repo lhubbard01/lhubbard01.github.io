@@ -3,6 +3,7 @@ layout: post
 title: terminal tips and tricks
 subtitle: file management and extensions I like
 css: /css/prt.css
+type: post
 ---
 
 homebrew: use this to download stuff.  It is a great way to quickly find packages and libraries that are commonly used. This will need to be downloaded from the web, but upon installation, you can use it to download the other extensions.

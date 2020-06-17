@@ -3,6 +3,7 @@ layout: post
 title: shell scripting
 subtitle: use cases and minutiae
 css: /css/prt.css
+type: post
 ---
 
 check out scripting in shell.
