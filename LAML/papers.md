@@ -49,8 +49,9 @@ These papers are some that I consider, likely among many others, as fundamentall
 	</header>
 	<div class="inner">
 		<dl>
-			<dt><a href=""></a></dt>
+			<dt><a href="https://iclr.cc/virtual_2020/poster_Skey4eBYPS.html">Convolutional Conditional Neural Processes</a></dt>
 			<dd><p></p></dd>
+			<dt><a href="https://iclr.cc/virtual_2020/poster_HJgpugrKPS.html">Scale-Equivariant Steerable Networks</a></dt>
 		</dl>
 	</div>
 </div>
