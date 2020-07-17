@@ -47,11 +47,20 @@ These papers are some that I consider, likely among many others, as fundamentall
 	<header class="major">
 		<h3>Newer Papers</h3>
 	</header>
+	<header class="major">
+		<h4>Network Functional Qualities</h4>
+	</header>
 	<div class="inner">
 		<dl>
+			<dt><a href="https://arxiv.org/abs/1703.06114">Deep Sets</a></dt>
+			<dd><p>This paper accomplished many impressives feats.  To give them context, let's describe what this paper attends to. To start, a set is a mathematical object that contains other pbjects. However, reardless of the way in which you order members of the set, the set is still the same set, i.e. the set as a whole is the same under any permutation of its constituent elements.  This is termed, unsurprisingly, permutation invariance. Neural networks have struggled in problem spaces where data are inordinal, i.e. to apply order to them would corrupt the nature of the data. A salient example is a point cloud. </p>
+			<p>Deep sets induce permutation invariance on the tensors comprising the data of a set. The way it is done is actually very clever, and frustratingly obvious. Consider two networks, phi and rho.  Between them, there exists the output of phi and the entry to rho. At this location, all of their data are summed together into a single tensor. <a href="https://github.com/lhubbard01/DeepSets">Here</a> is my implementation of a deep sets network on mnist data, where one can sum together the numbers in images, and regress upon their label sum. This outperformed the state-of-the-art in 2017, beating LSTMs on their inference ability by an order of magnitude on unseen data! </p>
+			<p>Not only does this paper introduce a simple mechanism thorugh which toi induce permutation invariance, it also proves that every network that has this quality must be able to be written in this form. </p></dd>
 			<dt><a href="https://iclr.cc/virtual_2020/poster_Skey4eBYPS.html">Convolutional Conditional Neural Processes</a></dt>
-			<dd><p></p></dd>
+			<dd><p>Here, the idea of permutation invariance is leveraged once more, in terms of it being the shoulder of a giant, so to speak. It is noted by the authors that while permutation invariance is useful, it applies to vectors in a vector space, but fails to capture translation invariance. Translation invariance is the ability to map to the same output, regardless of where the function is translated. Specifically, this is useful when considered in terms of Gaussian Processes or Conditional Neural Processes, where the latter's regression is entirely corrupted through the translation of the data. </p>
+			<p>To solve this, the authors demonstrate that applying the same idea of invariance instead to function spaces offers this translation invariant behavior! There is a wildly robust in demonstration of this in the domain of face image generation in their video</p></dd>
 			<dt><a href="https://iclr.cc/virtual_2020/poster_HJgpugrKPS.html">Scale-Equivariant Steerable Networks</a></dt>
+			<dd><p>Consider the issue of the semantic embedding of an object. As one moves an object between an observer across a variety of physical distances, the observer maintains their capacity to accurately identify the object at all locations. This is a demonstration of equivariance. more to come on the diuscussion of this paper, as I have only watched thier video, which seemed very promising.</p></dd>
 		</dl>
 	</div>
 </div>

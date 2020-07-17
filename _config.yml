@@ -17,9 +17,10 @@ country: United States of America
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 
+
 tiles-count: 6
 
-tile_display_order: "ml;blog;cloudtech;ml;"
+tile_display_order: "ml;blog;cloudtech;aecr"
 
 # social settings
 500px_url:

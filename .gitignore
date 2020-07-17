@@ -1,5 +1,6 @@
 _site/
 .sass-cache/
+/Ard/*
 .jekyll-metadata
 .jekyll-cache\
 *.py
